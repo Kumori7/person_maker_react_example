@@ -1,0 +1,9 @@
+.person-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .person-list__fallback {
+    color: white;
+    text-align: center;
+  }
