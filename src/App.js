@@ -23,7 +23,13 @@ const Dummy_Persons = [
   },
   {
     id: "p4",
-    name: "Ryza Eshima",
+    name: "Rem Eshima",
+    age: 23,
+    date: new Date(2000, 8, 3),
+  },
+  {
+    id: "p5",
+    name: "Hayato Hayato",
     age: 23,
     date: new Date(2000, 8, 3),
   },
